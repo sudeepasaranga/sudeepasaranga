@@ -16,7 +16,7 @@
 
 
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Information Technology**
-&nbsp;<a href="#"><img src="https://user-images.githubusercontent.com/88779731/151955551-4fa91ab2-163d-4d83-8fb7-3076c1632f12.gif"  width="170" height="145" align="right"/> </a> &nbsp;
+&nbsp;<a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="170" height="145" align="right"/> </a> &nbsp;
 - 🔭 I’m currently working on SLT Digital Services (Pvt) Ltd.
 - 🌱 I’m currently learning ReactJS, NodeJS, Java, Php
 - 👩‍💻 I’m skilled in web application development
@@ -30,6 +30,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 <img src="https://media2.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif?cid=ecf05e478cbjsxnx0toc64ns0td09gos8r7nlo81zd16botl&rid=giphy.gif&ct=s"  width="30" height="30" >
 -->
 
@@ -58,7 +60,7 @@
 </a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img  height="35px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />
+  <img  height="35px" src="https://user-images.githubusercontent.com/88779731/151955551-4fa91ab2-163d-4d83-8fb7-3076c1632f12.gif" />
 </a>
 </p>
 
@@ -84,14 +86,20 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714644-28238a7f-e603-4803-81d0-5b6f1117238e.jpg"></code> <!-- java      -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/154262306-75137579-6714-4c92-9532-a12431570a49.png"></code> <!-- JS        -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714805-befdd44b-99ed-4235-9f41-a3a0a3c4eaba.png"></code> <!-- bootstrap -->
-<code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714836-8e657a6a-1be7-43a2-abfd-1df749acc20e.jpg"></code> <!-- C#        -->
+<!--
+<code><img height="35" src="https://user-images.githubusercontent.com/88779731/
+151714836-8e657a6a-1be7-43a2-abfd-1df749acc20e.jpg"></code> <!-- C#        -->
+<!--
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714889-808b52f3-da5d-49c8-bd13-72707163f222.png"></code> <!-- C++       -->
+
+
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151748359-e0b2553d-0bef-46bb-833c-564dda90670d.png"></code> <!-- python    -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151714918-ddfd46ec-0064-4e2e-b81e-64e02de530b0.png"></code> <!-- CSS       -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743345-e72b3cbe-94e7-4af2-886c-89685906ce8a.jpg"></code> <!-- php       -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151752272-eec8f814-8770-4aba-8f7e-9f6504e3472c.png"></code> <!-- phpMyAdmin-->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743400-865a2d8a-bf79-424a-9d94-61a964011ecf.png"></code> <!-- mySQL     -->
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151748954-51145cbc-0900-4434-9f0e-8a3d422ef6cf.png"></code> <!-- mongoDB   -->
+
+<!--
 <code><img height="35" src="https://user-images.githubusercontent.com/88779731/151743481-86021ece-34ef-4d59-bb3b-afc57e871dae.png"></code> <!-- firebase  -->
 </p>
-
