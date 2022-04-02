@@ -16,8 +16,8 @@
 
 
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Information Technology**
-&nbsp;<a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="170" height="145" align="right"/> </a> &nbsp;
-- 🔭 I’m currently working on SLT Digital Services (Pvt) Ltd.
+&nbsp;<a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="180" height="160" align="right"/> </a> &nbsp;
+
 - 🌱 I’m currently learning ReactJS, NodeJS, Java, Php
 - 👩‍💻 I’m skilled in web application development
 - 📫 How to reach me **sarangasadeepa@gmail.com**
@@ -58,10 +58,13 @@
 <a href="#">
   <img  alt="hackerrank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a> -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
+ 
+<!--
+ &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img  height="35px" src="https://user-images.githubusercontent.com/88779731/151955551-4fa91ab2-163d-4d83-8fb7-3076c1632f12.gif" />
+  <img  height="35px" src="" />
 </a>
+-->
 </p>
 
 <hr>
