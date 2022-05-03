@@ -40,6 +40,9 @@
 <a href="https://www.linkedin.com/in/sudeepasaranga/">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
+  <a href="https://twitter.com/Sudeepa_Saranga">
+  <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
 
 <!-- 
   &nbsp;&nbsp;
@@ -51,9 +54,7 @@
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
   &nbsp;&nbsp;
-<a href="#">
-  <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a> <!--
+ <!--
   &nbsp;&nbsp;
 <a href="#">
   <img  alt="hackerrank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
