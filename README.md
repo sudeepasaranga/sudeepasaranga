@@ -15,7 +15,8 @@
 <br>
 
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Information Technology**
-&nbsp;<a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="180" height="160" align="right"/> </a> &nbsp;
+&nbsp;
+<a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="180" height="160" align="right"/> </a> &nbsp;
 
 - 🌱 I’m currently learning ReactJS, NodeJS, Java, Php
 - 👩‍💻 I’m skilled in web application development
