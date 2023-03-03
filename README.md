@@ -16,9 +16,9 @@
 
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Information Technology**
 &nbsp;
-<!--
+
 <a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="180" height="160" align="right"/> </a> &nbsp;
--->
+
 - 🔭 I’m currently working on New Release Biz Holdings (Private) Limited
 - 🌱 I’m currently learning NodeJS, Java, Php, Laravel
 - 👩‍💻 I’m skilled in web application development
