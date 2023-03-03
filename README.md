@@ -17,7 +17,8 @@
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Information Technology**
 &nbsp;
 
-<a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="180" height="160" align="right"/> </a> &nbsp;
+<a href="#"><img src="![image](https://user-images.githubusercontent.com/90574897/222822428-a627f585-cc96-42ae-9b4b-ed9106fdfe6c.png)
+"  width="180" height="160" align="right"/> </a> &nbsp;
 
 - 🔭 I’m currently working on New Release Biz Holdings (Private) Limited
 - 🌱 I’m currently learning NodeJS, Java, Php, Laravel
@@ -36,7 +37,7 @@
 
 
 <img src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966"  width="30" height="30" >
-
+-->
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +65,7 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img  height="35px" src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966" />
+  <img  height="35px" src="#" />
 </a>
 
 </p>
