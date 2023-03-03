@@ -19,8 +19,8 @@
 <!--
 <a href="#"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif"  width="180" height="160" align="right"/> </a> &nbsp;
 -->
-
-- 🌱 I’m currently learning ReactJS, NodeJS, Java, Php
+- 🔭 I’m currently working on New Release Biz Holdings (Private) Limited
+- 🌱 I’m currently learning NodeJS, Java, Php, Laravel
 - 👩‍💻 I’m skilled in web application development
 - 📫 How to reach me **sarangasadeepa@gmail.com**
 <!--
@@ -47,10 +47,9 @@ cid=ecf05e478cbjsxnx0toc64ns0td09gos8r7nlo81zd16botl&rid=giphy.gif&ct=s"  width=
   <a href="https://twitter.com/Sudeepa_Saranga">
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-
-<!-- 
+  
   &nbsp;&nbsp;
-<a href="https://www.facebook.com/priyankara.facebook">
+<a href="#">
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
   &nbsp;&nbsp;
