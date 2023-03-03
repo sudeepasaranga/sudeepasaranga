@@ -47,7 +47,6 @@ cid=ecf05e478cbjsxnx0toc64ns0td09gos8r7nlo81zd16botl&rid=giphy.gif&ct=s"  width=
   <a href="https://twitter.com/Sudeepa_Saranga">
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
-  
   &nbsp;&nbsp;
 <a href="#">
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
