@@ -17,8 +17,7 @@
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Information Technology**
 &nbsp;
 
-<a href="#"><img src="![image](https://user-images.githubusercontent.com/90574897/222822428-a627f585-cc96-42ae-9b4b-ed9106fdfe6c.png)
-"  width="180" height="160" align="right"/> </a> &nbsp;
+<a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgithub%2Fmarkup%2Fissues%2F1574&psig=AOvVaw1-h4CQg8nRZQP5WAlN-iLB&ust=1677961440271000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOig0M3LwP0CFQAAAAAdAAAAABAF"  width="180" height="160" align="right"/> </a> &nbsp;
 
 - 🔭 I’m currently working on New Release Biz Holdings (Private) Limited
 - 🌱 I’m currently learning NodeJS, Java, Php, Laravel
@@ -63,10 +62,10 @@
 </a> -->
  
 
- &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#">
+<!--  &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="">
   <img  height="35px" src="#" />
-</a>
+</a> -->
 
 </p>
 
