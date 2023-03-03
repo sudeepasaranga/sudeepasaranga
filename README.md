@@ -17,7 +17,7 @@
 - 🎓 I’m currently following **BSc(Hons) in Information Technology Specializing in Information Technology**
 &nbsp;
 
-<a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgithub%2Fmarkup%2Fissues%2F1574&psig=AOvVaw1-h4CQg8nRZQP5WAlN-iLB&ust=1677961440271000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOig0M3LwP0CFQAAAAAdAAAAABAF"  width="180" height="160" align="right"/> </a> &nbsp;
+<a href="#"><img src="https://user-images.githubusercontent.com/88779731…72684099-b5404b78-8050-4973-829a-38930eed2c6e.gif"  width="180" height="160" align="right"/> </a> &nbsp;
 
 - 🔭 I’m currently working on New Release Biz Holdings (Private) Limited
 - 🌱 I’m currently learning NodeJS, Java, Php, Laravel
